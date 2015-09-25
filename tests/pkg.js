@@ -14,7 +14,7 @@ describe('Verify Package.json', function() {
   });
   describe('Verify peerDependencies', function(){
     it('Should be look for hapi 9', function(){
-      pkg.peerDependencies.hapi.should.be.equal('^9.0.0');
+     pkg.peerDependencies.hapi.should.be.equal('^10.0.1');
     });
   });
 });
