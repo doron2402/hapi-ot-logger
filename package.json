@@ -29,7 +29,7 @@
     "should": "^3.3.1"
   },
   "dependencies": {
-    "hoek": "^2.7.0",
+    "hoek": "^4.2.1",
     "json-stringify-safe": "^5.0.0",
     "lodash.once": "^3.0.0",
     "redis": "^0.12.1"
